@@ -1,0 +1,54 @@
+Student ID: 110
+Name: subroto
+Department: CSE
+Level-Term: Level 1 - Term I
+Email: subrotoroy@gmail.com
+--------------------------------------------------
+Student ID: 046
+Name: pritom roy
+Department: CSE
+Level-Term: Level 2 - Term I
+Email: pritom@gmail.com
+--------------------------------------------------
+Student ID: 046
+Name: pritom
+Department: CSE
+Level-Term: Level 2 - Term I
+Email: pritom@gmail.com
+--------------------------------------------------
+Student ID: 045
+Name: man
+Department: EEE
+Level-Term: Level 1 - Term I
+Email: man@gmail.com
+--------------------------------------------------
+Student ID: 046
+Name: pritom roy
+Department: CSE
+Level-Term: Level 2 - Term I
+Email: pritomroy@gmail.com
+--------------------------------------------------
+Student ID: 058
+Name: liza
+Department: CSE
+Level-Term: Level 2 - Term I
+Email: liza@gmail.com
+--------------------------------------------------
+Student ID: 080
+Name: dabashish roy
+Department: CSE
+Level-Term: Level 2 - Term I
+Email: davroy@gmail.com
+--------------------------------------------------
+Student ID: 057
+Name: Annesha Roy
+Department: CSE
+Level-Term: Level 2 - Term I
+Email: annesha012@gmail.com
+--------------------------------------------------
+Student ID: 18
+Name: Pranto Sarker
+Department: EEE
+Level-Term: Level 2 - Term I
+Email: pranto018@gmail.com
+--------------------------------------------------
